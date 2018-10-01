@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\stdafx.h(44): warning C4091: 'typedef ': 변수를 선언하지 않으면 'BOARD' 왼쪽은 무시됩니다.
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\stdafx.h(49): warning C4091: 'typedef ': 변수를 선언하지 않으면 'OBJECT' 왼쪽은 무시됩니다.
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\stdafx.h(57): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CLIENT_STRUCT' 왼쪽은 무시됩니다.
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\stdafx.h(66): warning C4091: 'typedef ': 변수를 선언하지 않으면 'SERVER_STRUCT' 왼쪽은 무시됩니다.
+  Texture.cpp
+  Term_Project.cpp
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\term_project.cpp(94): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 'inet_addr' 선언을 참조하십시오.
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\term_project.cpp(252): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+  GameObject.cpp
+d:\2017년 2학기\네트워크게임 프로그래밍\term_project_client\term_project\gameobject.cpp(76): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'glut32.lib' 파일을 열 수 없습니다.

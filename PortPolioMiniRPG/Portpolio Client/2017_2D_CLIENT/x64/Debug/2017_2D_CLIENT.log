@@ -1,0 +1,7 @@
+﻿gpdumb1.obj : error LNK2019: Direct3DCreate9 외부 기호(참조 위치: "int __cdecl DD_Init(int,int,int)" (?DD_Init@@YAHHHH@Z) 함수)에서 확인하지 못했습니다.
+gpdumb1.obj : error LNK2019: D3DXCreateSprite 외부 기호(참조 위치: "int __cdecl DD_Init(int,int,int)" (?DD_Init@@YAHHHH@Z) 함수)에서 확인하지 못했습니다.
+gpdumb1.obj : error LNK2019: D3DXCreateFontW 외부 기호(참조 위치: "int __cdecl DD_Init(int,int,int)" (?DD_Init@@YAHHHH@Z) 함수)에서 확인하지 못했습니다.
+gpdumb1.obj : error LNK2019: D3DXCreateTextureFromFileExW 외부 기호(참조 위치: "int __cdecl Load_Image_Bitmap32(struct BITMAP_IMAGE_TYP *,wchar_t *,int,int,int)" (?Load_Image_Bitmap32@@YAHPEAUBITMAP_IMAGE_TYP@@PEA_WHHH@Z) 함수)에서 확인하지 못했습니다.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\lib\x86\d3d9.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\lib\x86\d3dx9.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\orizz\Desktop\Portpolio MiniRPG\Portpolio Client\x64\Debug\CLIENT.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

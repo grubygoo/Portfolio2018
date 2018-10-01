@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\stdafx.h(46): warning C4091: 'typedef ': 변수를 선언하지 않으면 'BOARD' 왼쪽은 무시됩니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\stdafx.h(51): warning C4091: 'typedef ': 변수를 선언하지 않으면 'OBJECT' 왼쪽은 무시됩니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\stdafx.h(59): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CLIENT_STRUCT' 왼쪽은 무시됩니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\stdafx.h(70): warning C4091: 'typedef ': 변수를 선언하지 않으면 'SERVER_STRUCT' 왼쪽은 무시됩니다.
+  GameObject.cpp
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(77): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(77): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(110): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(112): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(114): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(116): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(121): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(123): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(125): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(127): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(132): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(134): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(136): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(138): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(143): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(145): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(147): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(149): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(154): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(172): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(183): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(215): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(218): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(220): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(241): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(243): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(245): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(266): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(268): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(270): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(291): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\gameobject.cpp(375): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Term_Project.cpp
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\term_project.cpp(35): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 인수 3을(를) 'char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+  d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\term_project.cpp(35): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\term_project.cpp(65): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\term_project.cpp(102): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 'inet_addr' 선언을 참조하십시오.
+  Texture.cpp
+d:\게임서버 강의자료\네트워크게임 프로그래밍 (4)\term_project_client\term_project\texture.cpp(44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

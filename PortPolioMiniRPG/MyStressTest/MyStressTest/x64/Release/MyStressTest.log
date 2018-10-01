@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(82): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+main.cpp(77): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1467): note: 'vsprintf' 선언을 참조하십시오.
+main.cpp(185): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+main.cpp(138): warning C4101: 'type' :참조되지 않은 지역 변수입니다.
+main.cpp(355): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
+main.cpp(528): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MSVCRT.lib(exe_main.obj) : error LNK2001: main 외부 기호를 확인할 수 없습니다.
+C:\Users\conoi\Desktop\PortPolioMiniRPG\MyStressTest\x64\Release\MyStressTest.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

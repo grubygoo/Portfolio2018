@@ -1,0 +1,3 @@
+﻿  GameObject.cpp
+c:\users\orizz\desktop\network programming\term_project_client\term_project\gameobject.cpp(80): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  Term_Project.vcxproj -> C:\Users\orizz\Desktop\Network Programming\Term_Project_Client\Debug\Term_Project.exe

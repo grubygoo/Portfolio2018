@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="include\Core\Core.cpp">
+      <Filter>01.Core</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Object\NPC.cpp">
+      <Filter>02.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Object\Object.cpp">
+      <Filter>02.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Object\User.cpp">
+      <Filter>02.Object</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Processor\CProcessor.cpp">
+      <Filter>03.Processor</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Processor\UserProcessor.cpp">
+      <Filter>03.Processor</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Processor\NPCProcessor.cpp">
+      <Filter>03.Processor</Filter>
+    </ClCompile>
+    <ClCompile Include="include\DB\DB.cpp">
+      <Filter>05.DB</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Error\MiniDump.cpp">
+      <Filter>06.Error</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Error\ErrorUtil.cpp">
+      <Filter>06.Error</Filter>
+    </ClCompile>
+    <ClCompile Include="include\ServerMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Processor\CUserPool.cpp">
+      <Filter>03.Processor\01.UserPool</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Processor\CSector.cpp">
+      <Filter>03.Processor\02.Sector</Filter>
+    </ClCompile>
+    <ClCompile Include="include\Processor\Astar.cpp">
+      <Filter>03.Processor\04.Astar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Core\Core.h">
+      <Filter>01.Core</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Object\NPC.h">
+      <Filter>02.Object</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Object\Object.h">
+      <Filter>02.Object</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Object\User.h">
+      <Filter>02.Object</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\CProcessor.h">
+      <Filter>03.Processor</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\UserProcessor.h">
+      <Filter>03.Processor</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\NPCProcessor.h">
+      <Filter>03.Processor</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DB\DB.h">
+      <Filter>05.DB</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Error\MiniDump.h">
+      <Filter>06.Error</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Error\ErrorUtil.h">
+      <Filter>06.Error</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Include.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="include\SingleTone.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Struct.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\SendManager.h">
+      <Filter>03.Processor</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\CUserPool.h">
+      <Filter>03.Processor\01.UserPool</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\CSector.h">
+      <Filter>03.Processor\02.Sector</Filter>
+    </ClInclude>
+    <ClInclude Include="include\protocol.h">
+      <Filter>03.Processor\03.Protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Processor\Astar.h">
+      <Filter>03.Processor\04.Astar</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="01.Core">
+      <UniqueIdentifier>{8a70eca6-cf26-48ea-8a18-490590232550}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Object">
+      <UniqueIdentifier>{42ea452c-0b60-4692-8d88-f0e09e3ef1b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Processor">
+      <UniqueIdentifier>{ea7c3841-08f2-4025-bfe8-115fa3deab12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.DB">
+      <UniqueIdentifier>{05d8d955-a8d9-41e4-852f-5641b582bf1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="06.Error">
+      <UniqueIdentifier>{7db2a81a-784f-4a7e-9168-15a02787a5d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{402026ee-1dbb-4361-9ba4-a334c2fee73b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{e3544c81-5768-4d95-ae34-667db3acc7cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Processor\01.UserPool">
+      <UniqueIdentifier>{5948d12f-36da-4c22-9740-42e55f98b131}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Processor\02.Sector">
+      <UniqueIdentifier>{573a3deb-2770-4e54-8190-328c9446dc61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Processor\03.Protocol">
+      <UniqueIdentifier>{76a7b8f8-00a5-4987-91f4-b5ecdeb77a31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Processor\04.Astar">
+      <UniqueIdentifier>{16718f39-44fc-453c-9f45-18fc11d1203a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

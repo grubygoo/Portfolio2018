@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(TermProjectServer.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  ServerMain.cpp
+  UserProcessor.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  NPCProcessor.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  CUserPool.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\processor\cuserpool.cpp(17): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CSector.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  CProcessor.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  Astar.cpp
+  Object.cpp
+  NPC.cpp
+  User.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  MiniDump.cpp
+  ErrorUtil.cpp
+  DB.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  Core.cpp
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\object\user.h(13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(337): note: 'strncpy' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\db\db.cpp(55): warning C4715: 'CDB::ConnectDB': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\db\db.cpp(145): warning C4715: 'CDB::GetUserData': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\conoi\desktop\portpoliominirpg\portpolio server (2)\tf_server\include\processor\astar.cpp(43): warning C4172: 지역 변수 또는 임시: NextNode의 주소를 반환하고 있습니다.
+  TF_SERVER.vcxproj -> C:\Users\conoi\Desktop\PortPolioMiniRPG\Portpolio Server (2)\TF_SERVER\../exe/TF_SERVER.Debug64.exe

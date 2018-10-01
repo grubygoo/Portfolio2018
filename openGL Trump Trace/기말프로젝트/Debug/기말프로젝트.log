@@ -1,0 +1,5 @@
+﻿  기말기말하네.cpp
+c:\users\orizz\desktop\컴그\기말프로젝트\기말기말하네.cpp(267): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\orizz\desktop\컴그\기말프로젝트\기말기말하네.cpp(420): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  기말프로젝트.vcxproj -> C:\Users\orizz\Desktop\컴그\Debug\기말프로젝트.exe
