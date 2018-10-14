@@ -1,0 +1,97 @@
+﻿  Camera.cpp
+  CMapData.cpp
+  DayForestScene.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(35): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(42): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(43): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(44): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(45): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(48): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(49): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(387): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(387): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\dayforestscene.cpp(405): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  DDSTextureLoader.cpp
+  DDSTextureLoader12.cpp
+  GameFramework.cpp
+  Input.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.h(62): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
+  c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.cpp(45): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool CInput::AddKey<char[5],int>(const T (&),const int &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              T=char [5]
+          ]
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.h(62): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.h(40): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
+  c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.h(70): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool CInput::AddKey<char[3]>(const T (&))'에 대한 참조를 확인하십시오.
+          with
+          [
+              T=char [3]
+          ]
+  c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.cpp(33): note: 컴파일 중인 함수 템플릿 인스턴스화 'bool CInput::AddKey<int,char[3]>(const T &,const char (&)[3])'에 대한 참조를 확인하십시오.
+          with
+          [
+              T=int
+          ]
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\input.h(40): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
+  md5Loader.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\md5loader.cpp(374): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\md5loader.cpp(778): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\md5loader.cpp(1096): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\md5loader.cpp(1153): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\md5loader.cpp(1154): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\md5loader.cpp(1155): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mesh.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\mesh.cpp(81): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  MoveObj.cpp
+  ErrorUtil.cpp
+  NetWorkManager.cpp
+  Object.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(410): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(637): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(769): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(911): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(1048): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(1186): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(1321): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\object.cpp(1456): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\player.cpp(163): warning C4244: '=': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  SceneManager.cpp
+  Shader.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1016): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1054): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1092): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1130): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1168): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1212): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\shader.cpp(1235): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StartScene.cpp
+  StaticObj.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  TF_CLIENT.cpp
+  Timer.cpp
+  UIShader.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(613): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(616): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(622): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(625): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(628): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(631): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(637): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(640): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(643): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(689): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(608): warning C4172: 지역 변수 또는 임시: xmf4Result의 주소를 반환하고 있습니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\uishader.cpp(254): warning C4715: 'UIShader::CreateVertexShader': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  CMonster.cpp
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\cmonster.cpp(373): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\cmonster.cpp(441): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\orizz\desktop\senierproject\최종재발표클라+그림자\tf_client\include\cmonster.cpp(504): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  TF_CLIENT.vcxproj -> C:\Users\orizz\Desktop\SenierProject\최종재발표클라+그림자\x64\Debug\TF_CLIENT.exe

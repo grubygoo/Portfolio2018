@@ -1,0 +1,149 @@
+﻿cl : 명령줄 warning D9002: 알 수 없는 '/await/std:c++17' 옵션을 무시합니다.
+  Core.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\core.cpp(71): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xmemory0(920): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(949): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(951): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(965): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\util\mapdata.h(67): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::emplace_back<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  NPC.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\object\npc.h(24): warning C4244: 'return': 'float'에서 'const BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\object\npc.cpp(165): warning C4244: '인수': 'WORD'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xmemory0(920): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(949): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(951): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(965): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\util\mapdata.h(67): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::emplace_back<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  Object.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  User.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CProcessor.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\object\npc.h(24): warning C4244: 'return': 'float'에서 'const BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NPCProcessor.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\object\npc.h(24): warning C4244: 'return': 'float'에서 'const BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\npcprocessor.cpp(21): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\npcprocessor.cpp(37): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\npcprocessor.cpp(42): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\npcprocessor.cpp(118): warning C4244: '초기화 중': 'WORD'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xmemory0(920): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(949): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(951): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(965): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\util\mapdata.h(67): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::emplace_back<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  UserPool.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UserProcessor.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\object\npc.h(24): warning C4244: 'return': 'float'에서 'const BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\userprocessor.cpp(239): warning C4244: '인수': 'WORD'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\userprocessor.cpp(332): warning C4244: '인수': 'WORD'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\processor\userprocessor.cpp(378): warning C4244: '인수': 'WORD'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\xmemory0(920): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(949): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(951): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int&,float,int,float&,float&,float&>(_Alloc &,_Objty *const ,int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Alloc=std::allocator<MonsterData>,
+              _Ty=MonsterData,
+              _Objty=MonsterData
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\vector(965): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\util\mapdata.h(67): note: 컴파일 중인 함수 템플릿 인스턴스화 'void std::vector<MonsterData,std::allocator<_Ty>>::emplace_back<int&,float,int,float&,float&,float&>(int &,float &&,int &&,float &,float &,float &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=MonsterData
+          ]
+  ServerMain.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ErrorUtil.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\orizz\desktop\senierproject\2차수정\termprojectserver\include\inline.h(36): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  TermProjectServer.vcxproj -> C:\Users\orizz\Desktop\SenierProject\2차수정\TermProjectServer\../exe/TermProjectServer.Debug64.exe
